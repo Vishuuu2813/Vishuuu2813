@@ -1,4 +1,4 @@
-🚀 Frontend Developer | Full-Stack Enthusiast | Tech Explorer
+🚀 Frontend-Backend Developer | Full-Stack Enthusiast | Tech Explorer
 💻 Passionate about building interactive and user-friendly web applications
 🌱 Currently learning Full-Stack Development
 🔧 Skilled in React, JavaScript, Node.js
