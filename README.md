@@ -48,10 +48,10 @@
 const vishwas = {
   name          : "Vishwas Saxena",
   role          : "Full-Stack Developer & System Architect",
-  specialization: "MERN Stack, Real-time Systems, RESTful APIs",
+  specialization: "MERN Stack, Cloud Security, Visual Workflows",
   coreStack     : ["MongoDB", "Express.js", "React.js", "Node.js", "TypeScript"],
   passions      : ["Clean Architecture", "Scalable Systems", "Pixel-Perfect UX", "Performance Optimization"],
-  currentFocus  : "Building production-grade MERN & Next.js applications",
+  currentFocus  : "Building NetSecure, FuseFlow & High-Scale SaaS Applications",
   funFact       : "I refactor my code more than I sleep 😅",
   status        : "Open for Full-Stack / MERN Developer Roles & High-Impact Collaborations 🚀",
 };
@@ -64,7 +64,7 @@ const vishwas = {
 | Field | Detail |
 | :--- | :--- |
 | 💼 **Role** | Full-Stack Web Developer |
-| 🎓 **Domain** | Web Development, SaaS Apps, Real-Time Dashboards |
+| 🎓 **Domain** | SaaS Products, Cybersecurity Dashboards, Quick-Commerce Platforms |
 | ⚡ **Motto** | *"Write code that is easy to read, hard to break, and fast to execute."* |
 | 🌐 **Location** | India 🇮🇳 |
 | 📬 **Contact** | [vvishwas221@gmail.com](mailto:vvishwas221@gmail.com) |
@@ -119,16 +119,35 @@ const vishwas = {
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| ⚡ **Main Mumbai Admin & Web App** | Full-featured market management portal, admin dashboard, real-time results, mistake tracker, & automated payouts. | `React` `Node.js` `Express` `MongoDB` `Tailwind` | [GitHub](https://github.com/vishuuu2813) |
-| 🌐 **MERN Production Boilerplate** | High-performance full-stack authentication system, JWT refresh tokens, role-based access, and clean architecture. | `MongoDB` `Express` `React` `Node.js` `TypeScript` | [GitHub](https://github.com/vishuuu2813) |
-| 📊 **Real-time Analytics Dashboard** | Interactive metrics dashboard featuring live charts, responsive UI, dark mode themes, & instant notifications. | `React` `TailwindCSS` `Chart.js` `REST API` | [GitHub](https://github.com/vishuuu2813) |
+| 🛡️ **NetSecure** | Enterprise Zero-Trust cloud security dashboard with real-time threat monitoring, vulnerability scanning & OAuth2/MFA auth. | `React` `Node.js` `Express` `MongoDB` `Redis` `Tailwind` | [GitHub](https://github.com/vishuuu2813) |
+| ⚡ **FuseFlow** | Low-code visual workflow automation orchestrator featuring drag-and-drop node pipelines, WebSockets & job queues. | `Next.js` `React Flow` `Node.js` `TypeScript` `PostgreSQL` | [GitHub](https://github.com/vishuuu2813) |
+| 🥗 **SaladSprint** | High-concurrency quick-commerce food & health platform with real-time tracking, dynamic inventory & payments. | `React` `Redux` `Node.js` `Express` `MongoDB` `Razorpay` | [GitHub](https://github.com/vishuuu2813) |
+
+---
+
+## 🟩 GitHub Green Contribution Matrix
+
+<div align="center">
+
+### 🟢 Live Contribution Activity Heatmap
+<br/>
+
+<a href="https://github.com/vishuuu2813">
+  <img src="https://ghchart.rshah.org/40c463/vishuuu2813" alt="Vishwas's GitHub Contributions Heatmap" width="100%" />
+</a>
+
+<p><i>Green squares represent live commits, pull requests, and contributions across public repositories!</i></p>
+
+</div>
 
 ---
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishuuu2813&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="GitHub Trophies" />
+  <a href="https://github.com/vishuuu2813">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishuuu2813&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
+  </a>
 </div>
 
 ---
@@ -137,33 +156,26 @@ const vishwas = {
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img height="195em" src="https://github-readme-stats.vercel.app/api?username=vishuuu2813&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00f5ff&icon_color=00f5ff&text_color=9ece6a" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuuu2813&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=00f5ff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishuuu2813&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=00f5ff&currStreakLabel=00f5ff" width="95%" alt="Streak Stats" />
+  <a href="https://github.com/vishuuu2813">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vishuuu2813&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vishuuu2813">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishuuu2813&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
 
   <br/><br/>
 
-  <img src="https://github-activity-graph.vercel.app/graph?username=vishuuu2813&theme=tokyo-night&hide_border=true&area=true&color=00f5ff&line=00f5ff" width="98%" alt="Activity Graph" />
+  <a href="https://github.com/vishuuu2813">
+    <img src="https://streak-stats.demolab.com/?user=vishuuu2813&theme=tokyonight&hide_border=true" width="95%" alt="Streak Stats" />
+  </a>
 
-</div>
+  <br/><br/>
 
----
+  <a href="https://github.com/vishuuu2813">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishuuu2813&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Activity Graph" />
+  </a>
 
-## 🌌 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vishuuu2813/vishuuu2813/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
