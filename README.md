@@ -1,96 +1,135 @@
 <div align="center">
 
-  <!-- Typing Header -->
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,12,30&height=220&section=header&text=Vishwas%20Saxena&fontSize=50&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descSize=20&descAlignY=68" width="100%" />
+
+  <br/><br/>
+
+  <!-- Typing Animated Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Vishwas+Saxena+👋;Full-Stack+Developer+%26+Security+Enthusiast;Building+NetSecure+Foundation+🛡️;Crafting+Modern+Web+Experiences+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=👋+Hello%2C+World!+I'm+Vishwas+Saxena;💻+Full-Stack+Engineer+%26+Security+Researcher;🛡️+Founder+%26+Lead+Developer+%40+NetSecure+Foundation;🚀+Crafting+Modern%2C+Scalable+%26+Secure+Web+Apps" alt="Typing SVG" />
   </a>
 
-  <p align="center">
-    <b>Passionate Full-Stack Engineer crafting high-performance, secure, and visually stunning web applications.</b>
-  </p>
+  <br/><br/>
 
-  <!-- Badges -->
-  <p align="center">
-    <a href="mailto:vvishwas221@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vvishwas221%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-Vishwas_Saxena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/Vishuuu2813">
-      <img src="https://img.shields.io/badge/GitHub-Vishuuu2813-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-  </p>
+  <!-- Social Badges Row -->
+  <a href="mailto:vvishwas221@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://github.com/Vishuuu2813">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://img.shields.io/badge/WAKATIME-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+  </a>
 
 </div>
 
-<br />
+<br/>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Vishwas Saxena
-role: Full-Stack Web Developer & Security Researcher
-current_project: NetSecure Foundation (EdTech & Security Portal)
-core_focus: React, TypeScript, Node.js & Web Security
-interests: 3D Web Graphics, Cloud Architecture, Ethical Hacking & Open Source
-location: India 🇮🇳
+```json
+{
+  "name": "Vishwas Saxena",
+  "username": "Vishuuu2813",
+  "role": "Full-Stack Web Developer & Security Researcher",
+  "headline": "Building robust web solutions with clean code & strong security",
+  "core_stack": ["React 19", "TypeScript", "TanStack Start", "Tailwind CSS", "Node.js", "MongoDB"],
+  "featured_project": "NetSecure Foundation",
+  "location": "India 🇮🇳"
+}
 ```
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### ⚡ Technologies & Skill Set
 
 <div align="center">
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black) ![TanStack](https://img.shields.io/badge/TanStack_Start-FF4154?style=flat-square&logo=tanstack&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black) |
-| **Backend & DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white) |
-| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,threejs,nodejs,express,mongodb,py,git,docker,cloudflare,vscode,postman&perline=8" alt="My Skills" />
 
 </div>
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🔥 Streak & GitHub Stats
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishuuu2813&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vishwas's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishuuu2813&theme=react&hide_border=true&border_radius=10" alt="Vishwas's GitHub Streak" width="95%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishuuu2813&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats & Top Languages Side by Side -->
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Vishuuu2813&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
 
 ---
 
-### ⚡ Featured Project
+### 📈 Contribution Activity Graph
 
-#### 🛡️ **[NetSecure Foundation](https://github.com/Vishuuu2813/NetSecureFdn)**
-> End-to-end full-stack portal for cybersecurity education, member & internship certificate verification, event management, and digital safety awareness. Built using React 19, TanStack Start, Three.js, and Express/MongoDB.
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishuuu2813&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+
+</div>
 
 ---
 
-### 🌐 Let's Connect & Build Together
+### 🏆 Featured Project
+
+<div align="center">
+
+  <a href="https://github.com/Vishuuu2813/NetSecureFdn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vishuuu2813&repo=NetSecureFdn&theme=react&hide_border=true&border_radius=10" alt="NetSecureFdn Pin" />
+  </a>
+
+</div>
+
+<br/>
+
+---
+
+### 💬 Let's Connect & Build Together
 
 <div align="center">
 
   <a href="mailto:vvishwas221@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Vishuuu2813">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://wa.me/">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://github.com/Vishuuu2813">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://wakatime.com">
+    <img src="https://img.shields.io/badge/WAKATIME-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- Dev Quote of the Day -->
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Dev Quote" />
 
 </div>
 
@@ -98,6 +137,6 @@ location: India 🇮🇳
 
 <div align="center">
 
-  *"Security is not a product, but a process."* — **Bruce Schneier**
+  <sub>Designed with ❤️ by **Vishwas Saxena**</sub>
 
 </div>
