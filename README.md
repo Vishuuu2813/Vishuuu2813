@@ -57,12 +57,12 @@
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishuuu2813&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=Vishuuu2813&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" width="95%" />
 
   <br/><br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishuuu2813&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Vishuuu2813&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
 
 </div>
 
