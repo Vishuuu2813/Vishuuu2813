@@ -68,7 +68,7 @@
 
 ---
 
-### Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -78,7 +78,7 @@
 
 ---
 
-### Let's Connect
+## Let's Connect
 
 <div align="center">
 
