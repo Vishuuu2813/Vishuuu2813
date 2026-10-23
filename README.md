@@ -1,101 +1,73 @@
-<div align="center">
+# Hi, I'm Vishwas Saxena 👋
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,0,11,12,30&height=200&section=header&text=Vishwas%20Saxena&fontSize=48&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Web%20Developer&descSize=20&descAlignY=68" width="100%" />
+### Full-Stack Developer · Building Products That Solve Real Problems
 
-  <br/>
+I build and manage web applications, SaaS platforms, and digital products — from frontend experiences to backend architecture and deployment.
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+scalable+web+applications;Founder+%40+Crodonian" alt="Typing SVG" />
-  </a>
+- 💻 Full-stack web development
+- 🚀 Building and managing live products
+- 🛠️ Interested in scalable systems, automation, and product engineering
+- 🌱 Always learning, experimenting, and building something new
+- 🇮🇳 Based in India
 
-  <br/><br/>
-
-  <a href="mailto:vvishwas221@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/vishwas-saxena">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Vishuuu2813">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
-</div>
-
-<br/>
+[Portfolio & Projects](https://crodonian.com/) · [LinkedIn](https://linkedin.com/in/vishwas-saxena) · [Email](mailto:vvishwas221@gmail.com)
 
 ---
 
-### About Me
+## Tech Stack
 
-```json
-{
-  "name": "Vishwas Saxena",
-  "username": "Vishuuu2813",
-  "role": "Full-Stack Web Developer",
-  "focus": "Building clean, scalable, and performant web applications",
-  "core_stack": ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Tailwind CSS"],
-  "currently_building": "FuseFlow — WhatsApp Business Automation SaaS",
-  "founder_of": "Crodonian",
-  "location": "India"
-}
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,python,git,docker,postman&perline=6" alt="Technologies and tools" />
+</p>
 
 ---
 
-### Tech Stack
+## Selected Projects
 
-<div align="center">
+A selection of live products and platforms I've worked on.
 
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,py,git,docker,vscode,postman&perline=8" alt="Tech Stack" />
+| Project | Description | Live Website |
+|---|---|---|
+| GharJameen | Real estate platform | [Visit Website ↗](https://gharjameen.in/) |
+| The Salad Sprint | Healthy food and salad brand | [Visit Website ↗](https://thesaladsprint.com/) |
+| Null Cyber X | Cybersecurity platform | [Visit Website ↗](https://nullcyberx.in/) |
+| NetSecureFDN | Cybersecurity website | [Visit Website ↗](https://netsecurefdn.org/) |
+| Crodonian | My startup and digital ventures | [Visit Website ↗](https://crodonian.com/) |
+| FuseFlow | WhatsApp business automation SaaS | [Visit Website ↗](https://fuseflow.fuseonestudios.com/) |
+| FuseRank | Digital product and platform | [Visit Website ↗](https://fuserank.fuseonestudios.com/) |
+| FuseOne Studios | Digital studio and products | [Visit Website ↗](https://fuseonestudios.com/) |
 
-</div>
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com/?user=Vishuuu2813&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak" width="95%" />
-
-  <br/><br/>
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Vishuuu2813&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Top Languages" />
-
-</div>
+*These are selected projects. More projects and experiments are in progress.*
 
 ---
 
-## Contribution Graph
+## GitHub Activity
 
-<div align="center">
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishuuu2813&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&rank_icon=github" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishuuu2813&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Most used programming languages" />
+</p>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishuuu2813&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+<p>
+  <img src="https://streak-stats.demolab.com?user=Vishuuu2813&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" width="100%" alt="GitHub contribution streak" />
+</p>
 
-</div>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishuuu2813&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution graph" />
+</p>
 
 ---
 
 ## Let's Connect
 
-<div align="center">
+Have an idea, a project to build, or an opportunity to collaborate? Let's connect.
 
-  <a href="mailto:vvishwas221@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/vishwas-saxena">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Vishuuu2813">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<p>
+  <a href="mailto:vvishwas221@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="https://linkedin.com/in/vishwas-saxena"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+  <a href="https://github.com/Vishuuu2813"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Vishwas Saxena</sub>
-</div>
+<p align="center">
+  <sub>Designed with curiosity. Built with code. Improved with every iteration.</sub>
+</p>
