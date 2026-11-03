@@ -12,7 +12,7 @@
 <a href="https://github.com/Vishuuu2813"><img src="https://img.shields.io/github/followers/Vishuuu2813?label=Followers&style=for-the-badge&color=161B22&labelColor=0D1117&logo=github&logoColor=E6EDF3" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=Vishuuu2813&style=for-the-badge&color=58A6FF&labelColor=161B22&label=PROFILE+VIEWS" alt="Profile views" />
 
-<sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#work">Work</a> · <a href="#analytics">Analytics</a> · <a href="#connect">Connect</a></sub>
+<sub><a href="#about">About</a> · <a href="#stack">Stack</a> · <a href="#work">Work</a> · <a href="#analytics">Analytics</a> · <a href="#connect">Connet</a></sub>
 
 </div>
 
